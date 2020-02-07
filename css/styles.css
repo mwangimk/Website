@@ -1,0 +1,19 @@
+h1 {
+  color: yellow;
+  text-align: center;
+  font-family: sans-serif
+}
+h2 {
+  color: thistle;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+.part1
+{ float:center;
+background-color: honeydew;}
